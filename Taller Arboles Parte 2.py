@@ -1,3 +1,5 @@
+# Johan Francisco López (2241548), Juan Felipez Hernandez (2241796)
+
 from bigtree import Node
 
 # Crear nodos
